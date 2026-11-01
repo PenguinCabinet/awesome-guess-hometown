@@ -7,7 +7,8 @@ Kiyoshi Yoshidaさんが[最速で出身地を当てるサービスを作成](ht
 このリポジトリはトレンドに乗って開発された「最速で出身地を当てるサービス」をまとめたAwesome listです。
 
 ## 最速で出身地を当てるサービスの一覧
-ユーザー名は敬称略。順不同。
+ユーザー名は敬称略。順不同。      
+このトレンドで作成したサービスであることを記載条件としており、必ずしも出身地を当てるサービスとは限りません。
 
 - [最速で出身地を当てます。](https://shusshin-saisoku.pages.dev/) - Kiyoshi Yoshida
 - [最速出身地当て](https://sevenc7c.com/fastest_todoufuken/) - 名無し｡
