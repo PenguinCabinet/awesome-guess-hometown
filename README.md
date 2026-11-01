@@ -17,3 +17,4 @@ Kiyoshi Yoshidaさんが[最速で出身地を当てるサービスを作成](ht
 - [どこから。｜もっと最速で出身地を当てる](https://dokokara-4mt.pages.dev/) - 門脇 拓弥
 - [出身地ズバリ診断](https://e6nlaq.github.io/zubari/) - e6nlaq
 - [最速出身地診断](https://shusshin.pages.dev/) - ゆせ
+- [ガチ最速で出身地を当てます](https://nikuroll.github.io/saisoku_area.html) - にくまき
